@@ -3,6 +3,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: "Inter", sans-serif;
   box-sizing: border-box;
 }
 
@@ -29,14 +30,12 @@
 .nav-link {
   text-decoration: none;
   color: black;
-  font-family: "Inter", sans-serif;
   font-weight: 300;
   font-size: 20px;
   padding-bottom: 15px;
 }
 
 .nav-links .active {
-  font-family: "Inter", sans-serif;
   font-weight: 600;
   color: black;
   border-bottom: 2px solid black;
@@ -75,8 +74,15 @@
   width: 100%;
 }
 
+.product-title {
+  font-weight: 300;
+  font-size: 24px;
+}
+
 .product-price {
   margin-top: 7px;
+  font-weight: 700;
+  font-size: 15px;
 }
 
 .product-button {
@@ -84,8 +90,8 @@
   padding: 10px;
   background-color: black;
   color: white;
-  font-family: "Inter", sans-serif;
   font-weight: 400;
+  font-size: 18px;
   border: none;
   margin-top: 18px;
 }

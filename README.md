@@ -1,6 +1,6 @@
 # Assignment: CSS Product Page
 
-This is a simple static webpage built as part of a web development bootcamp assignment.  
+This is a simple static webpage built as part of a web development class/bootcamp assignment.  
 The focus of this assignment is practicing HTML and CSS fundamentals.
 
 ## 📝 Features
